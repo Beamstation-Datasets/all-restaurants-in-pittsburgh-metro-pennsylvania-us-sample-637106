@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete restaurant data for the Pittsburgh metropolitan area in western Pennsylvania. Filtered by the Restaurants category group, this dataset captures the Steel City's revitalized dining market with business profiles, ratings, review trends, and competitive metrics. Refreshed weekly.",
+  "config_name": "All Restaurants in Pittsburgh (Metro), Pennsylvania, US",
+  "export_job_id": "01269212-2c9d-425b-ba18-a3ba112a8f2b",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 637106,
+  "location_name": "Pittsburgh, PA",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-pittsburgh-metro-pennsylvania-us-sample-637106",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/637106/beamstation_637106_restaurants-us-pittsburghpa_SAMPLE_DIST.csv",
+  "sample_pct": 9.99,
+  "sample_records": 381,
+  "sample_sha256": "ccfe1b77a2669b218d90848d9a0d3bc0b39e03b00ce56427e913b7ca12a400de",
+  "sample_size_bytes": 1362101,
+  "total_records": 3813,
+  "updated_at": "2026-04-14T19:42:49.877840+00:00"
+}
