@@ -1,12 +1,12 @@
 {
-  "export_job_id": "01269212-2c9d-425b-ba18-a3ba112a8f2b",
+  "export_job_id": "69f988df-296a-4bee-b696-cba07ad3b73b",
   "id_short": 637106,
-  "published_at": "2026-04-18T19:36:25Z",
+  "published_at": "2026-04-22T07:48:13Z",
   "repo_name": "all-restaurants-in-pittsburgh-metro-pennsylvania-us-sample-637106",
   "sample_asset_name": "beamstation_637106_restaurants-us-pittsburghpa_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/637106/beamstation_637106_restaurants-us-pittsburghpa_SAMPLE_DIST.csv",
-  "sample_records": 381,
-  "sample_sha256": "ccfe1b77a2669b218d90848d9a0d3bc0b39e03b00ce56427e913b7ca12a400de",
-  "sample_size_bytes": 1362101,
-  "total_records": 3813
+  "sample_records": 351,
+  "sample_sha256": "f4cdc8be85c511856d86f538a2260d528502f6cf69e19a16a1327ad315e249be",
+  "sample_size_bytes": 1285243,
+  "total_records": 3511
 }
