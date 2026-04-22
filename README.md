@@ -1,6 +1,6 @@
 # All Restaurants in Pittsburgh (Metro), Pennsylvania, US
 
-> Free BeamStation sample export with 381 rows and masked direct-contact fields.
+> Free BeamStation sample export with 351 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `637106` |
 | Location | Pittsburgh, PA |
 | Category | Restaurants |
-| Full dataset size | 3,813 records |
-| Free sample size | 381 records (9.99%) |
-| Last export | 2026-04-14T19:42:49.877840+00:00 |
+| Full dataset size | 3,511 records |
+| Free sample size | 351 records (10.0%) |
+| Last export | 2026-04-21T21:51:01.126627+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-pittsburgh-metro-pennsylvania-us-sample-637106/releases/download/sample-latest/beamstation_637106_restaurants-us-pittsburghpa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
